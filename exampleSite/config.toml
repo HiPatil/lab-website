@@ -62,7 +62,7 @@ weight = 1
 
 [[menu.footer]]
 URL = "tools/"
-name = "tools"
+name = "Tools"
 weight = 2
 
 
@@ -99,7 +99,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Welcome to Visual Computing Lab at Indian Institute of Science"
 image = "images/banner/illustration.svg"
 
 
