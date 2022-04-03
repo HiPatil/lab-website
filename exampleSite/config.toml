@@ -2,7 +2,7 @@
 baseURL = "https://demo.gethugothemes.com/northendlab-light/examplesite/"
 languageCode = "en-us"
 # site title 
-title = "Northendlab | Blog Template"
+title = "VCL-IISc"
 # theme
 theme = "northendlab-light"
 # post pagination
